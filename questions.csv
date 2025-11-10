@@ -1,0 +1,10 @@
+在 p5.js 中，哪個函數用於初始化和設定畫布？,setup(),draw(),preload(),init(),A
+哪個 p5.js 函數會持續重複執行？,init(),loop(),draw(),repeat(),C
+在 p5.js 中，如何取得滑鼠的水平位置？,mouseX,cursorX,pointX,mousePos.x,A
+哪個函數用於繪製圓形？,drawCircle(),circle(),oval(),round(),B
+p5.js 中，預設的角度模式是？,弧度,角度,度數,DEGREE,A
+哪個函數用於停止動畫循環？,stop(),pause(),break(),noLoop(),D
+如何在 p5.js 中設定背景顏色？,setBackground(),bg(),background(),setBg(),C
+在 p5.js 中，random(5) 會返回什麼範圍的數字？,0到5,1到5,0到4,1到4,A
+哪個函數用於載入外部圖片？,loadImage(),getImage(),fetchImage(),importImage(),A
+如何在 p5.js 中繪製矩形？,square(),rectangle(),rect(),box(),C
